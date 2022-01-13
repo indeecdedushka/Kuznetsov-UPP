@@ -21,4 +21,8 @@
 Обзор и исследование функциональности системы управления проектами JetBrains YouTrack. Создание фрагмента ЭОР. (индивидуально).
 <a href="https://docs.google.com/document/d/1lpOWNN1-MvxW5vq-Yhmv7gwwsaTeNCgFnbnoYzvH1mk/edit?usp=sharing">Ссылка на  работу</a>
 <h1>Инвариантная самостоятельная 3.1</h1>
+Обзор и анализ функциональности инструментов для тестирования доступности, качества веб-страниц, оценки скорости их работы (например, Lighthouse, YSlow). Создание текстового отчета с результатами обзора. (можно выполнять в группе)
+<a href="https://docs.google.com/document/d/101esHzO83ao5dFXSQzK72f0MMIp1DemgsgltsATJh9Y/edit?usp=sharing">Ссылка на  работу</a>
 <h1>Вариативная самостоятельная 3.2</h1>
+Создание конспекта с подборкой веб-ресурсов, посвященных рекомендациям по построению доступных (для людей с ОВЗ) сайтов (например, https://webkind.ru, https://guide.so-edinenie.org). В конспекте привести примеры сайтов, где рекомендации соблюдаются и не соблюдаются. (можно выполнять в группе)
+<a href="https://docs.google.com/document/d/18utzOo3UhVFmtfTW5IcoGvC3qqc9kl9R6_-sMeCS33k/edit?usp=sharing">Ссылка на  работу</a>
