@@ -7,6 +7,7 @@
 <a href="https://docs.google.com/document/d/1kVDyFpYU5GcAUvKJiuEE0rF1EujizaRto0TniOJq6r0/edit?usp=sharing">Ссылка на работу</a>
 <h1>Вариативная самостоятельная 1.2</h1>
 Обзор и сравнительный анализ функционала по контролю и управлению версиями, встроенного в IDE (например, IDE от JetBrains, Eclipse, Microsoft VisualStudio). Создание сравнительной таблицы. (можно выполнять в группе).
+<a href="https://docs.google.com/document/d/1R7RQnhtQn-xPij7aFehWcDjFW3iDAg9GUYuqH9RH6tc/edit?usp=sharing">Ссылка на работу</a>
 <h1>Инвариантная самостоятельная 2.1</h1>
 Создание интеллект-карты на тему «Программная инженерия. Модели и методологии разработки» (выделение подсистем и связей между ними). (можно выполнять в группе). 
 <a href="https://coggle.it/diagram/Yd8tq5tkwkvDxV2p/t/%D0%BA%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2-%D0%BC-%D1%81-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8-%D0%B8-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/4a3a3865487f6f73fcaed909aba3af3d96a27c53a23386c27e7170ae9c2eed7a">Ссылка на работу</a>
